@@ -1,3 +1,4 @@
 hi am devops
 am here to clear the bridge between developers team and operations team .
 i can automate..
+Edited by magi
